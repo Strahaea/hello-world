@@ -1,2 +1,2 @@
 # hello-world
-Says Hello to the world
+I'm new to GitHub
